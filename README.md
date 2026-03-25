@@ -34,7 +34,7 @@ student-score-predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/{your-username}/student-score-predictor.git
+git clone https://github.com/KunalBohra29/student-score-predictor.git
 cd student-score-predictor
 ```
 
